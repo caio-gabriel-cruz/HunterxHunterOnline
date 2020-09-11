@@ -1,0 +1,1 @@
+Hunter x Hunter Online é um projeto parecido com o do naruto Online e com o objetivo de treinar html e css
